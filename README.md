@@ -27,10 +27,12 @@ I built the Recipe Page, which is a Frontend Mentor challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Imnot343guiltyspark/Front-endMentor-Recipe-page)
+- Live Site URL: (https://imnot343guiltyspark.github.io/Front-endMentor-Recipe-page/)
 
 ## My process
+
+I started analyzing how the example was made, and then replicating block by block and styiling them. Sometimes got stuck in some issues but I did really good.
 
 ### Built with
 
